@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gcerv93/jest_practice#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
     "jest": "^27.5.1"
   }
 }
